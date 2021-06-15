@@ -26,6 +26,8 @@ optional arguments:
                         Netcat's host to catch reverse shell
 ```
 
-#### 3. Example
+#### 3. Example Usage
 
-![](Example.gif)
+<br>
+
+![](example.gif)
