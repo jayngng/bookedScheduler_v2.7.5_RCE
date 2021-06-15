@@ -4,7 +4,9 @@ Automatic exploitation script written in python 3 to exploit "Book Scheduler v2.
 <hr>
 
 #### 1. Basic Usage: 
-`$ python3 booked_sheduler.py --url http://127.0.0.1 -u <admin> -p <adminpass> -P <pentesterPort> -H <pentesterIP>`
+```txt
+$ python3 booked_sheduler.py --url http://127.0.0.1 -u <admin> -p <adminpass> -P <pentesterPort> -H <pentesterIP>
+```
 
 #### 2. Help Menu:
 ```txt
