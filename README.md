@@ -28,4 +28,4 @@ optional arguments:
 
 #### 3. Example
 
-![](example.gif)
+![](Example.gif)
