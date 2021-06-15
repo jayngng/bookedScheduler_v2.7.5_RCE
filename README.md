@@ -23,3 +23,6 @@ optional arguments:
   -H LHOST, --lhost LHOST
                         Netcat's host to catch reverse shell
 ```
+
+#### 3. Example
+![](example.gif)
